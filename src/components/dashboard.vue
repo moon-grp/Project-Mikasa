@@ -2,7 +2,7 @@
 <div id='dashboard'>
     <ul class="collection with-header">
         <li class="collection-header">
-            <h4>Employees</h4>
+            <h4>Team Members</h4>
         </li>
            <li class="collection-item" v-for="employee in employees" v-bind:key="employee.id">
          <div class="chip">{{employee.dept}}</div>{{employee.employee_id}} : {{employee.name}}
@@ -18,7 +18,7 @@
 
 
     <div class="fixed-action-btn">
-        <router-link to="/new" class="btn-floating btn-large red">
+        <router-link to="/new" class="btn-floating btn-large deep-purple darken-4">
         <i class="fa fa-plus" />
         </router-link>
     </div>

@@ -1,9 +1,9 @@
 <template>
     <nav>
-        <div class="nav-wrapper green">
+        <div class="nav-wrapper purple lighten-2">
             <div class="container">
                 <router-link to="/" class="brand-logo">
-                Employee manager
+                Project Mikasa
                 </router-link>
             </div>
         </div>

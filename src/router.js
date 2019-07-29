@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import Router from 'vue-router'
-import Home from './views/Home.vue'
 import Newemployee from '@/components/newemployee'
 import Viewemployee from '@/components/viewemployee'
 import Dashboard from '@/components/dashboard'
