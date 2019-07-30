@@ -1,4 +1,4 @@
-# fire3
+# project mikasa
 
 ## Project setup
 ```
