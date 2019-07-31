@@ -1,4 +1,4 @@
-# project mikasa
+# Project Mikasa
 
 ## Project setup
 ```
